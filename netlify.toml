@@ -1,0 +1,5 @@
+[functions."job"]
+schedule = "30 10 * * 1-5"
+
+[build.environment]
+TZ = "America/Sao_Paulo"
